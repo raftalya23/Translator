@@ -1,0 +1,14 @@
+/Users/saba/Desktop/Translator/bin/Debug/net8.0/Translator
+/Users/saba/Desktop/Translator/bin/Debug/net8.0/Translator.deps.json
+/Users/saba/Desktop/Translator/bin/Debug/net8.0/Translator.runtimeconfig.json
+/Users/saba/Desktop/Translator/bin/Debug/net8.0/Translator.dll
+/Users/saba/Desktop/Translator/bin/Debug/net8.0/Translator.pdb
+/Users/saba/Desktop/Translator/obj/Debug/net8.0/Translator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saba/Desktop/Translator/obj/Debug/net8.0/Translator.AssemblyInfoInputs.cache
+/Users/saba/Desktop/Translator/obj/Debug/net8.0/Translator.AssemblyInfo.cs
+/Users/saba/Desktop/Translator/obj/Debug/net8.0/Translator.csproj.CoreCompileInputs.cache
+/Users/saba/Desktop/Translator/obj/Debug/net8.0/Translator.dll
+/Users/saba/Desktop/Translator/obj/Debug/net8.0/refint/Translator.dll
+/Users/saba/Desktop/Translator/obj/Debug/net8.0/Translator.pdb
+/Users/saba/Desktop/Translator/obj/Debug/net8.0/Translator.genruntimeconfig.cache
+/Users/saba/Desktop/Translator/obj/Debug/net8.0/ref/Translator.dll
